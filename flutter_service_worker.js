@@ -3,15 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "92f9f3aa14cc1a9f2cbebd2e16b42c9f",
-"version.json": "5d86776c02066bfe4b1432e18a43036f",
+const RESOURCES = {"flutter_bootstrap.js": "13f0d168a877cb6f17f0b9434a63ebd7",
+"version.json": "0e0c4fb1cca8018a831b957a10a02c76",
 "favicon.ico": "1e897cdbe42a696e62c90a882a004600",
 "index.html": "cf4b89a443e28a98fa969653ad5131e2",
 "/": "cf4b89a443e28a98fa969653ad5131e2",
 "privacy/index.html": "d61fefa0a57992ee26fde69da6f7ef73",
 "firebase-messaging-sw.js": "5a301f2a4da1d0f53f187314fd46005f",
-"main.dart.js": "515c20e77a2094dccc2ab4bef717d676",
+"main.dart.js": "0b42704dffcea859e7c19da6f7c28018",
 ".well-known/pki-validation/ea87a52ab4c7280d.txt": "5cf69ec0586ac41cbb9b12995b7e315e",
+"404.html": "1cc1914b7696853e0ad4c56c11cc3e8e",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
 "remove_account/index.html": "dd2437e2f7fd53297864af8741b3ece8",
 "icons/Icon-192.png": "5dfce1c81d9190814fbac88dda889cd1",
